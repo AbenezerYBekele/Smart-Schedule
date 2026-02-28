@@ -1,0 +1,5 @@
+{
+  "name": "SmartSchedule AI",
+  "description": "An intelligent scheduling assistant that converts natural language requests into structured calendar events using Gemini AI.",
+  "requestFramePermissions": []
+}
