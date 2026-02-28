@@ -1,20 +1,58 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1SzMh93jMDAxO3Xy91kLDOiDl2GNG1iyr
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+# 🧠 Smart Schedule
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 📌 Overview
+
+Smart Schedule is a productivity-focused application that allows users to create, manage, and track their daily tasks and scheduled events. The goal of this project is to provide a clean, intuitive, and efficient platform for organizing time and boosting workflow efficiency.
+
+Whether you're a student, professional, or team member, Smart Schedule helps you stay organized and in control of your schedule.
+
+---
+
+## 🚀 Features
+
+- ✅ Create, edit, and delete tasks  
+- 🗓️ Schedule events with date and time  
+- ⏰ Set reminders and deadlines  
+- 📊 Task prioritization (Low / Medium / High)  
+- 🔍 Filter and search tasks  
+- 🔄 Real-time updates  
+- 🔐 User authentication (if implemented)  
+- 📱 Responsive and user-friendly interface  
+
+---
+
+## 🛠️ Tech Stack
+
+> Update this section to reflect your actual implementation.
+
+### Frontend
+- HTML5  
+- CSS3  
+- JavaScript  
+- (Optional: React / Vue / etc.)
+
+### Backend
+- Node.js / Express  
+- (or Django / Flask / etc.)
+
+### Database
+- MongoDB  
+- (or PostgreSQL / MySQL / etc.)
+
+### Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- npm / pip  
+
+---
+
+## 📦 Installation Guide
+
+Follow these steps to set up the project locally:
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/AbenezerYBekele/Smart-Schedule.git
+cd Smart-Schedule
