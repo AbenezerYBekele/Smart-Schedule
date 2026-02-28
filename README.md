@@ -7,6 +7,11 @@ Smart Schedule is a productivity-focused application that allows users to create
 
 Whether you're a student, professional, or team member, Smart Schedule helps you stay organized and in control of your schedule.
 
+<img width="1084" height="877" alt="Screenshot 2026-02-28 132858" src="https://github.com/user-attachments/assets/a2361d72-b2b3-4cbe-b576-24df2485c059" />
+<img width="300" height="749" alt="Screenshot 2026-02-28 132829" src="https://github.com/user-attachments/assets/220c8b89-32af-4f73-b700-f5d58c6b6d2e" />
+<img width="300" height="782" alt="Screenshot 2026-02-28 133243" src="https://github.com/user-attachments/assets/7f0f9e59-36af-404c-a920-cec7069cb6b1" />
+<img width="300" height="790" alt="Screenshot 2026-02-28 133222" src="https://github.com/user-attachments/assets/822d5c12-fcf7-490d-9f44-72d61c3f9dc2" />
+
 ---
 
 ## 🚀 Features
